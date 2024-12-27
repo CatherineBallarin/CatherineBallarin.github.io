@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maximizing Team Potential
-subtitle: The importance of creating the right environment
+subtitle: and the importance of creating the right environment
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
