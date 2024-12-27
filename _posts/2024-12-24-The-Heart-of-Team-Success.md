@@ -2,9 +2,9 @@
 layout: post
 title: The power of positivity
 subtitle: and the heart of team success
-cover-img: /assets/img/CB_06.png
-thumbnail-img: /assets/img/CB_03.png
-share-img: /assets/img/CB_03.png
+cover-img: /assets/img/CB07.png
+thumbnail-img: /assets/img/CB07.png
+share-img: /assets/img/CB07.png
 tags: [team, smiling, positivity]
 author: Catherine Ballarin
 ---
