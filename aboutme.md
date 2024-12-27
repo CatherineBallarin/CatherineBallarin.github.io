@@ -1,13 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: Handling logistics and creating balance so awesome people can focus on being brilliant at what they do best
 ---
 
-Hi there! I’m Catherine Ballarin, a team manager with a knack for making the impossible look easy. I believe there are some things only the experts can do - and that’s where I come in. I’m here to support those experts by taking care of everything else, so they can stay laser-focused on their brilliance.
+Hi there! I’m Catherine, a team manager with a knack for making the impossible look easy. I believe there are some things only the experts can do - and that’s where I come in. I’m here to support those experts by taking care of everything else, so they can stay laser-focused on their brilliance.
 
 Through a magical mix of organization, logistics, event management, and just the right amount of doodling, I turn chaos into clarity. Whether it’s untangling complicated schedules, fetching life-saving coffees, sweet-talking vendors, balancing priorities, and making sure everyone has exactly what they need - I create environments where people can thrive and do their best work.
 
-I’m an expert at ensuring my team has exactly what they need to shine. Creative problem-solving? That’s my bread and butter. Advocacy for my people? Absolutely. Turning hard work into seamless success? Always.
+[Let's talk!](mailto:catherine.ballarin@proton.me)
 
-[Let's talk](mailto:catherine.ballarin@proton.me)
+# My Journey
+My journey started on the receiving end of great leadership as a team member, where I learned the power of thoughtful guidance and support. Inspired by those experiences, I moved into leadership roles, managing everything from intricate schedules to morale-boosting moments (yes, even fetching life-saving coffees). Along the way, I discovered my knack for empowering others to focus on what they do best while I handle the “everything else.”
+
+# Then Came Esports
+What began as a personal passion quickly became a professional calling. I took my leadership expertise and applied it to managing an amateur esports team, blending my love for gaming with my talent for organization. From coordinating tournaments to supporting players through every challenge, I realized this is where I thrive.
+
+# A Way of Life
+The CS:GO Majors in 2018 was the first tournament I saw from start to finish - and I was completely captivated by the intensity and precision of the plays. But as I watched, something deeper clicked. It wasn’t just the brilliance of the players that held my attention - **it was the intricate system behind them**. The discipline, the teamwork, the culture, and the unseen support that made performances like that possible. In that moment, I knew I didn’t just want to cheer from the sidelines. I wanted to be part of the ecosystem that helps extraordinary moments like this come to life.
+
+# Let's Talk!
+Now, I’m bringing my expertise to esports full-time. I’m here to support teams by handling the logistics, planning, and behind-the-scenes essentials so they can focus entirely on winning. If you’re looking for someone to create structure, boost morale, and make the impossible look easy, [let’s talk](mailto:catherine.ballarin@proton.me) or [connect on Linkedin](https://www.linkedin.com/in/catherineballarin/)!
