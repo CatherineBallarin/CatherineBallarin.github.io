@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The power of positivity
+title: The Power of Positivity
 subtitle: and the heart of team success
 cover-img: /assets/img/CB07.png
 thumbnail-img: /assets/img/CB07.png
