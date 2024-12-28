@@ -9,7 +9,7 @@ tags: [team, potential, thrive]
 author: Catherine Ballarin
 ---
 
-From stratups to corporate, one of the most crucial factors for success isn’t just the idea, product, or funding - it's the team. A well-supported, motivated team is the backbone of any successful venture, yet so often, leaders overlook the importance of investing in their people.
+From startups to corporate, one of the most crucial factors for success isn’t just the idea, product, or funding - it's the team. A well-supported, motivated team is the backbone of any successful venture, yet so often, leaders overlook the importance of investing in their people.
 
 In my experience as a team lead, I’ve seen firsthand how focusing on the well-being and development of your team can fuel exponential growth. Startups are dynamic, fast-paced environments where the pressure to perform is high, but it's essential to remember that behind every achievement, there’s a person—people who need the right support, encouragement, and guidance to perform at their best.
 
@@ -17,15 +17,13 @@ In my experience as a team lead, I’ve seen firsthand how focusing on the well-
 
 One of the most overlooked aspects of building a successful team is fostering mental and physical well-being. It’s easy to get caught up in productivity and results, but creating an environment where people feel valued and balanced is what ultimately drives sustained success. When a team member feels healthy, heard, and supported, they’re more likely to deliver their best work and contribute positively to the team dynamic.
 
-At the core of my leadership philosophy is the idea that **well-being should never be an afterthought**. It’s not just about avoiding burnout or stress—it's about creating a workplace where team members thrive holistically. This means actively promoting mental health resources, offering flexible working conditions, and **celebrating small wins along the way**.
+At the core of my leadership philosophy is the idea that **well-being should never be an afterthought**. It’s not just about avoiding burnout or stress - it's about creating a workplace where team members thrive holistically. This means actively promoting mental health resources, offering flexible working conditions, and **celebrating small wins along the way**.
 
 ## Building a Culture of Trust, Communication, and Growth
 
-Building a successful team isn’t just about technical skills; it’s about creating a culture that encourages open communication, mutual respect, and trust. I’ve seen teams struggle when there’s a lack of transparency or a breakdown in communication. That’s why I place such a strong emphasis on ensuring that every team member feels heard and empowered.
-
-For me, empowerment means giving people the autonomy to **own their work**, make decisions, and drive their projects forward. This fosters a sense of ownership, accountability, and pride—values that directly translate into better performance and innovation.
-
-Equally important is creating space for **personal growth**. A strong team is one that encourages each member to not only focus on their professional development but also take time for self-improvement. As leaders, we have the responsibility to help individuals on our teams build skills and knowledge that will set them up for success—whether that’s through mentorship, access to learning resources, or encouraging them to pursue their passions.
+-**Culture**: Building a successful team isn’t just about technical skills; it’s about creating a culture that encourages open communication, mutual respect, and trust. I’ve seen teams struggle when there’s a lack of transparency or a breakdown in communication. That’s why I place such a strong emphasis on ensuring that every team member feels heard and empowered.
+-**Empowerment**: means giving people the autonomy to **own their work**, make decisions, and drive their projects forward. This fosters a sense of ownership, accountability, and pride - values that directly translate into better performance and innovation.
+-**Personal Growth**: A strong team is one that encourages each member to not only focus on their professional development but also take time for self-improvement. As leaders, and before that as team members ourselves, we have the responsibility to help everyone on the team build skills and knowledge that will set them up for success, whether that’s through mentorship, access to learning resources, or encouraging them to pursue their passions.
 
 ## Practical Actions to Support Team Well-Being
 
